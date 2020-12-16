@@ -1,0 +1,49 @@
+{
+  "products": {
+    "screw": {
+      "id": "XL284",
+      "status": "MOQ", 
+      "description": "1/2 inch screw 24 pack",
+      "discountPercent": 15,
+      "minQuantity": 4
+    },
+    "drill": {
+      "id": "XL285",
+      "status": "unassigned", 
+      "description": "1/2 drill",
+      "discountPercent": 20,
+      "minQuantity": 1
+    },
+    "paint": {
+      "id": "XL286",
+      "status": "pending", 
+      "description": "1 gallon paint",
+      "discountPercent": 0,
+      "minQuantity": 1
+    },
+    "wrench": {
+      "id": "XL287",
+      "status": "unassigned", 
+      "description": "large wrench",
+      "discountPercent": 5,
+      "minQuantity": 1
+    }
+  },
+  "customers": {
+    "bob": {
+      "id": 55,
+      "address": "456 alex st.",
+      "PO": 798
+    },
+    "alex": {
+      "id": 57,
+      "address": "123 bob st.",
+      "PO": 444
+    },
+    "jane": {
+      "id": 77,
+      "address": "98 chode lane",
+      "PO": 22
+    }
+  }
+}
